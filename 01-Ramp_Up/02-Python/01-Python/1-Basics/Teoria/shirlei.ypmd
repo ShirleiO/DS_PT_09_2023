@@ -1,0 +1,11 @@
+los numeros se pueden escribir con _ ex: 1_000_000
+
+Buscar los shortcuts
+
+
+bool: False siempre es 0
+True: es todo lo que no sea 0 o este vacio ""
+
+Desde str solo se puede pasar a int, pasandolo a float, ex: "95.52"
+int(float ("98.52"))
+Se imprimiria: 98
