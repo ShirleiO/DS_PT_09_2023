@@ -9,3 +9,12 @@ True: es todo lo que no sea 0 o este vacio ""
 Desde str solo se puede pasar a int, pasandolo a float, ex: "95.52"
 int(float ("98.52"))
 Se imprimiria: 98
+
+'''
+# se puede hacer de este modo
+# cond_final2 = (ram2 == 16 or ram2 == 32 or ram2 == 64) and (process2 == "i3" and disco2 == 500) and (precio2 <=800)
+# O de este modo
+# cond_final2 = (ram2 == 16 or ram2 == 32 or ram2 == 64) and \
+#(process2 == "i3" and disco2 == 500) and \
+#(precio2 <=800)
+'''
